@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1A05-E980
+
+ Directory of C:\Users\dell pc\Desktop\MyProject\edureka-repo
+
+04/26/2020  07:26 PM    <DIR>          .
+04/26/2020  07:26 PM    <DIR>          ..
+04/26/2020  07:26 PM                 0 hi.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  50,995,191,808 bytes free
